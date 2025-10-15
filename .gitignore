@@ -1,0 +1,28 @@
+# Node dependencies
+node_modules/
+
+# Environment files
+#.env   - uncomment it once you have your own credentials and clone this repository.
+*.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE/editor configs
+.vscode/
+.idea/
+
+# Build or cache
+dist/
+build/
+coverage/
+.cache/
+"node_modules/" 
